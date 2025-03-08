@@ -1,5 +1,5 @@
 # Graduation-Project
-
+## *Pothole And Crack Detection Using Convolutional Neural Networks (CNNs)*
 ## **1. Introduction**  
 - Most transportation relies on paved roads.  
 - Poor road conditions (potholes, cracks) cause vehicle damage and accidents.  
@@ -7,7 +7,8 @@
 
 ## **2. Dataset & Data Processing**  
 - The dataset originates from:  
-  **J. Rashid, A. Ghulam, & I. Ahmad. (Feb 2023) - ResearchGate**  
+  **J. Rashid, A. Ghulam, & I. Ahmad. (Feb 2023) - ResearchGate**
+  **The Link: https://bit.ly/3scBvlG**
 - **Dataset Details:**  
   - **Original dataset:** 6,000 images (3 classes: Potholes, Cracks, Normal roads).  
   - **Augmented dataset:** Increased to **36,000 images** using data augmentation.  
