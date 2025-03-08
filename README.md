@@ -22,6 +22,8 @@
 - **Image Specifications:**  
   - Size: **256 × 256 pixels**  
   - Format: **RGB**
+  - Summary of the All Dataset images type:
+  - <img width="424" alt="image" src="https://github.com/user-attachments/assets/b48dc53a-a387-488a-84c7-d48bdffe2100" />
 
 ## **3. Model & Implementation**  
 - Implemented using **Python** and **Keras library**.  
