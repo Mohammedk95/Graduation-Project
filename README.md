@@ -11,19 +11,19 @@
 - **Dataset Details:**  
   - **Original dataset:** 6,000 images (3 classes: Potholes, Cracks, Normal roads).
   - **The Link: https://bit.ly/3scBvlG**
-   <img width="248" alt="image" src="https://github.com/user-attachments/assets/4fc7039c-2f26-4fcb-87f5-167114c427a6" />
+<img width="248" alt="image" src="https://github.com/user-attachments/assets/4fc7039c-2f26-4fcb-87f5-167114c427a6" />
   - **Augmented dataset:** Increased to **36,000 images** using data augmentation.
-   <img width="267" alt="image" src="https://github.com/user-attachments/assets/720ab5fd-159a-4b62-85ff-4f8a4b546bf9" />
+<img width="267" alt="image" src="https://github.com/user-attachments/assets/720ab5fd-159a-4b62-85ff-4f8a4b546bf9" />
   - **Additional datasets for testing:**  
     - **Augmented-18:** 18,000 images  
     - **Augmented-36:** 36,000 images
     - **The Augmentation Code:**
-     <img width="374" alt="image" src="https://github.com/user-attachments/assets/2b54c3fd-0c85-4451-be3a-b0547a62af30" />
+<img width="374" alt="image" src="https://github.com/user-attachments/assets/2b54c3fd-0c85-4451-be3a-b0547a62af30" />
 - **Image Specifications:**  
   - Size: **256 × 256 pixels**  
   - Format: **RGB**
   - Summary of the All Dataset images type:
-  - <img width="424" alt="image" src="https://github.com/user-attachments/assets/b48dc53a-a387-488a-84c7-d48bdffe2100" />
+<img width="424" alt="image" src="https://github.com/user-attachments/assets/b48dc53a-a387-488a-84c7-d48bdffe2100" />
 
 ## **3. Model & Implementation**  
 - Implemented using **Python** and **Keras library**.  
