@@ -8,9 +8,9 @@
 ## **2. Dataset & Data Processing**  
 - The dataset originates from:  
   **J. Rashid, A. Ghulam, & I. Ahmad. (Feb 2023) - ResearchGate**
-  **The Link: https://bit.ly/3scBvlG**
 - **Dataset Details:**  
-  - **Original dataset:** 6,000 images (3 classes: Potholes, Cracks, Normal roads).  
+  - **Original dataset:** 6,000 images (3 classes: Potholes, Cracks, Normal roads).
+  - **The Link: https://bit.ly/3scBvlG**  
   - **Augmented dataset:** Increased to **36,000 images** using data augmentation.  
   - **Additional datasets for testing:**  
     - **Augmented-18:** 18,000 images  
