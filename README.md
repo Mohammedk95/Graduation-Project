@@ -40,9 +40,9 @@
   - **Accuracy, Loss, and F1-Score**  
   - **Performance visualized using curves & tables**  
 
-![Final Result Chart](https://github.com/user-attachments/assets/80799666-2cc6-4941-a7cb-32c3d939f562)
+<img width="394" alt="image" src="https://github.com/user-attachments/assets/0690fb1f-83a2-4e24-a906-67905e7ab155" />
 
-![Final Result Chart (Loss)](https://github.com/user-attachments/assets/c6d55531-5161-4984-a03a-6d6c19bfe4e8)
+<img width="389" alt="image" src="https://github.com/user-attachments/assets/583a0f94-6d47-444b-a744-a08f6dc1ae93" />
 
 ## **5. Conclusion**  
 - The study proves that **CNN models can effectively detect road defects**.  
