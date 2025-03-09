@@ -1,5 +1,5 @@
 # Graduation-Project
-## *Pothole And Crack Detection Using Convolutional Neural Networks (CNNs)*
+## *Pothole and Cracks Detection Using Convolutional Neural Networks (CNNs)*
 
 ## **1. Introduction**  
 - Most transportation relies on paved roads.  
