@@ -50,4 +50,4 @@
 - **Deep Learning significantly enhances road safety** by providing an automated monitoring system.  
 - **Transfer learning with VGG-16 & VGG-19 achieved top performance**, confirming CNNs' effectiveness in addressing road infrastructure challenges.  
 
-- *Note: This is a graduation project for the 2023-2024 academic year in the Computer Science major. I worked on it with two colleagues, and the summary below presents our findings. All the results shown are from my own work, as they have been fully updated to achieve better outcomes.*
+- *Note: This is a graduation project for the 2023-2024 academic year in the Computer Science major. I worked on it with two colleagues, and the summary above presents our findings. All the results shown are from my own work, as they have been fully updated to achieve better outcomes.*
