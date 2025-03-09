@@ -1,5 +1,6 @@
 # Graduation-Project
 ## *Pothole And Crack Detection Using Convolutional Neural Networks (CNNs)*
+- *Note: This is a graduation project for the 2023-2024 academic year in the Computer Science major. I worked on it with two colleagues, and the summary below presents our findings. All the results shown are from my own work, as they have been fully updated to achieve better outcomes.*
 ## **1. Introduction**  
 - Most transportation relies on paved roads.  
 - Poor road conditions (potholes, cracks) cause vehicle damage and accidents.  
